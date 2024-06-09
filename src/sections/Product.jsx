@@ -10,8 +10,8 @@ function Product() {
         </div>
 
         <div className="flex flex-col sm:flex-row justify-between gap-3 my-5">
-          <div className=" bg-secondary rounded-2xl p-2 text-center w-full  ">
-            <h2 className="text-primary font-semibold text-xl py-2">
+          <div className=" bg-[#467cdc] rounded-2xl p-2 text-center w-full border  ">
+            <h2 className="text-black font-semibold text-xl py-2 ">
               Stake Coin
             </h2>
             <p className="text-black font-medium text-sm">
@@ -19,8 +19,8 @@ function Product() {
               It's all about your tokens, your choice.
             </p>
           </div>
-          <div className=" bg-secondary rounded-2xl p-2 text-center w-full  ">
-            <h2 className="text-primary font-semibold text-xl py-2">
+          <div className=" bg-[#467cdc] rounded-2xl p-2 text-center w-full border ">
+            <h2 className="text-[#000] font-semibold text-xl py-2">
               Farming Fun
             </h2>
             <p className="text-black font-medium text-sm">
@@ -28,8 +28,8 @@ function Product() {
               providing liquidity.
             </p>
           </div>
-          <div className=" bg-secondary rounded-2xl p-2 text-center w-full  ">
-            <h2 className="text-primary font-semibold text-xl py-2">
+          <div className=" bg-[#467cdc] rounded-2xl p-2 text-center w-full border ">
+            <h2 className="text-black font-semibold text-xl py-2">
               Governance
             </h2>
             <p className="text-black font-medium text-sm">
@@ -37,8 +37,8 @@ function Product() {
               upgrades.
             </p>
           </div>
-          <div className=" bg-secondary rounded-2xl p-2 text-center w-full  ">
-            <h2 className="text-primary font-semibold text-xl py-2">
+          <div className=" bg-[#467cdc] rounded-2xl p-2 text-center w-full border  ">
+            <h2 className="text-[#000] font-semibold text-xl py-2">
               Trading Bots
             </h2>
             <p className="text-black font-medium text-sm">

@@ -49,24 +49,24 @@ function App() {
           <Roadmap />
         </div>
 
-        <div className="mb-20">
+        {/* <div className="mb-20">
           <Get />
-        </div>
+        </div> */}
 
-        <div>
+        {/* <div>
           <BackedBy />
-        </div>
+        </div> */}
 
-        <img
+        {/* <img
           src="/images/star.png"
           className="h-[10rem] lg:h-[12rem] mt-[-1.4rem] lg:mt-[-2.4rem] mb-[-1.4rem] lg:mb-[-2.4rem] w-full object-contain z-[60] relative pointer-events-none select-none"
           alt=""
-        />
+        /> */}
 
-        <div className="mb-20">
-          <FeaturedOn />
+        <div className="my-20">
+          {/* <FeaturedOn /> */}
           <div className="my-10 mx-auto flex justify-center">
-            <a href="" className="py-3 px-10 rounded-full bg-[#87b133] text-xl transition-all duration-200 hover:bg-white hover:text-black">
+            <a href="" className="py-3 px-10 rounded-full bg-[#ffffff] text-xl transition-all duration-200  hover:bg-transparent text-black border-black hover:border-white  hover:text-white border ">
               Buy Now
             </a>
 

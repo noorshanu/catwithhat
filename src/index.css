@@ -68,3 +68,7 @@
   opacity: 1;
   pointer-events: visible;
 }
+
+.bg-purp{
+  background: radial-gradient(63% 63% at 50% 50%, rgb(144 18 255) 0%, #e8cefe /* {"name":"Purple"} */ 100%);
+}

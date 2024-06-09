@@ -21,7 +21,7 @@ function Mission() {
       </div>
 
       <div>
-        <img src="/images/mission.png" className="w-full" alt="" />
+        <img src="/images/mission.jpeg" className="w-auto rounded-3xl" alt="" />
       </div>
     </section>
   );
