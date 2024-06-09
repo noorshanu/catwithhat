@@ -70,5 +70,8 @@
 }
 
 .bg-purp{
-  background: radial-gradient(63% 63% at 50% 50%, rgb(144 18 255) 0%, #e8cefe /* {"name":"Purple"} */ 100%);
+  
+  background-color: #cff4fd;
+background-image: linear-gradient(319deg, #cff4fd 0%, #c5f4e0 37%, #efc2cf 100%);
+
 }
