@@ -15,7 +15,7 @@ function Product() {
               Stake Coin
             </h2>
             <p className="text-black font-medium text-sm">
-              Stake your $PEPIE to unveil thrilling rewards and PEPE NFTs.
+              Stake your $PEPIE to unveil thrilling rewards andNFTs.
               It's all about your tokens, your choice.
             </p>
           </div>
@@ -24,7 +24,7 @@ function Product() {
               Farming Fun
             </h2>
             <p className="text-black font-medium text-sm">
-              Immerse yourself in DeFi farming and earn $BarbieLove tokens by
+              Immerse yourself in DeFi farming and earn  tokens by
               providing liquidity.
             </p>
           </div>

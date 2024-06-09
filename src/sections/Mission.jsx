@@ -8,7 +8,7 @@ function Mission() {
 
         <p className="font-daughter text-xl font-medium ">
           Listen up, 'cause I've got the 411 on the spectacular sensation that
-          is BarbieLovePepe! ($PEPIE) She's no ordinary frog, no way. This absolute
+          isShe's no ordinary frog, no way. This absolute
           queen? She's all about crafting memes and puns that'll tickle your
           funny bone 'til it's weak at the knees. And guess what? She's diving
           headfirst into NFT territory to whip up some digital gems that'll have
