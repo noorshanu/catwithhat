@@ -54,10 +54,10 @@ function JoinCommunity() {
           </h1>
           <div className="flex items-center -m-1 flex-wrap justify-center lg:justify-normal">
             <Button className="m-1">DexTools</Button>
-            <Button link="https://twitter.com/barbielovepepe" className="m-1">
+            <Button link="https://twitter.com/e" className="m-1">
               Twitter
             </Button>
-            <Button link="https://t.me/barbielovepepe" className="m-1">
+            <Button link="https://t.me/" className="m-1">
               Telegram
             </Button>
             
