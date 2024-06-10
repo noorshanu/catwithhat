@@ -12,34 +12,31 @@ function Product() {
         <div className="flex flex-col sm:flex-row justify-between gap-3 my-5">
           <div className=" bg-[#cff4fd] rounded-2xl p-2 text-center w-full border border-black shadow-xl  ">
             <h2 className="text-black font-semibold text-xl py-2 ">
-              Stake Coin
+            Viral Cute Cat Memes
             </h2>
             <p className="text-black font-medium text-sm">
-              Stake your $PEPIE to unveil thrilling rewards andNFTs.
-              It's all about your tokens, your choice.
+            Laugh till you purr with our hilarious cat memes that'll have you rolling on the floor!
             </p>
           </div>
           <div className=" bg-[#cff4fd] rounded-2xl p-2 text-center w-full border border-black ">
             <h2 className="text-[#000] font-semibold text-xl py-2">
-              Farming Fun
+            NFTs
             </h2>
             <p className="text-black font-medium text-sm">
-              Immerse yourself in DeFi farming and earn  tokens by
-              providing liquidity.
+            Own a piece of Catwithat history with our exclusive NFTs featuring Catwithat in all her glory.
             </p>
           </div>
           <div className=" bg-[#cff4fd] rounded-2xl p-2 text-center w-full border border-black ">
             <h2 className="text-black font-semibold text-xl py-2">
-              Governance
+            High Staking Rewards
             </h2>
             <p className="text-black font-medium text-sm">
-              Your voice matters! Holders can vote on important decisions and
-              upgrades.
+            Earn big just by holding onto our coin. Sit back, relax, and watch your investment grow!
             </p>
           </div>
           <div className=" bg-[#cff4fd] rounded-2xl p-2 text-center w-full border border-black  ">
             <h2 className="text-[#000] font-semibold text-xl py-2">
-              Trading Bots
+            Trading Bots
             </h2>
             <p className="text-black font-medium text-sm">
               Explore secure, user-friendly trading with our dynamic trading bot

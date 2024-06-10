@@ -7,16 +7,7 @@ function Mission() {
         <Title className="lh-1_5 mb-3">MISSION</Title>
 
         <p className="font-daughter text-xl font-medium ">
-          Listen up, 'cause I've got the 411 on the spectacular sensation that
-          isShe's no ordinary frog, no way. This absolute
-          queen? She's all about crafting memes and puns that'll tickle your
-          funny bone 'til it's weak at the knees. And guess what? She's diving
-          headfirst into NFT territory to whip up some digital gems that'll have
-          your jaws dropping like never before!  Brace yourself for a dose
-          of charm that'll knock your socks off, and a leap into a realm of
-          collectible art that's, like, next-level iconic.  <br />
-          Who's ready to be wowed? Get your front-row seats, 'cause
-          $PEPIE is here to rock your NFT world! 
+        At CatWitHat, our mission is to create a joyful and rewarding experience in Solana's adventurous world through memes, NFTs, and high staking rewards. We bring together meme enthusiasts, NFT collectors, and investors to revolutionize the meme landscape and create lasting value. Join us on this exciting journey to spread laughter and unlock financial potential, one meme at a time. Meow!
         </p>
       </div>
 
