@@ -31,8 +31,8 @@ function Roadmap() {
   return (
     <section className="relative z-10 overflow-hidden border-2 mx-8 rounded-3xl">
       <div className="container-wrapper mb-14">
-        <Title className="text-center mb-10 pt-8">ROADMAP</Title>
-        <p>
+        <Title className="text-center mb-4 pt-8">ROADMAP</Title>
+        <p className=" text-center">
         Join Catwithat on our journey to save the Solana meme world, one meme at a time! Meow!
         </p>
 
@@ -41,7 +41,7 @@ function Roadmap() {
             <img src="images/cats.png" alt="" />
           </div>
           <div className=" flex flex-col gap-2">
-            <div className=" bg-[#ffffff] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
+            <div className=" bg-[#cff4fd] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
               <h2 className="text-[#000] font-semibold text-xl py-2">
                Phase 1
               </h2>
@@ -56,7 +56,7 @@ function Roadmap() {
               </p>
             </div>
 
-            <div className=" bg-[#ffffff] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
+            <div className=" bg-[#cff4fd] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
               <h2 className="text-[#000] font-semibold text-xl py-2">
                 Phase 2
               </h2>
@@ -67,7 +67,7 @@ function Roadmap() {
               </p>
             </div>
 
-            <div className=" bg-[#ffffff] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
+            <div className=" bg-[#cff4fd] backdrop-blur-2xl  rounded-2xl p-2 text-center w-full border border-black  ">
               <h2 className="text-[#000] font-semibold text-xl py-2">
               Phase 3
               </h2>
