@@ -27,7 +27,7 @@ function Hero() {
           </a>
 
           <a href="/" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
-          <FaTwitter/>
+          <img src="images/dex.png" alt="" className=" h-[24px] w-auto" />
           </a>
 
         </div>
