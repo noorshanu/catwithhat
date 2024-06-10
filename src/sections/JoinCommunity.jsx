@@ -25,7 +25,7 @@ const SocialLink = ({ children }) => {
 
 function JoinCommunity() {
   return (
-    <section className="pb-14 relative z-10 overflow-hidden">
+    <section className="pb-14 relative z-10 overflow-hidden" id="contact">
       <div
         className="absolute top-[4rem] left-0 w-full h-full -z-20 opacity-60"
         style={{
@@ -54,10 +54,10 @@ function JoinCommunity() {
           </h1>
           <div className="flex items-center -m-1 flex-wrap justify-center lg:justify-normal">
             <Button className="m-1">DexTools</Button>
-            <Button link="https://twitter.com/e" className="m-1">
+            <Button link="https://x.com/catwithatonsol" className="m-1">
               Twitter
             </Button>
-            <Button link="https://t.me/" className="m-1">
+            <Button link="https://t.me/Catwithatcoin" className="m-1">
               Telegram
             </Button>
             

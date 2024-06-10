@@ -18,11 +18,11 @@ function Hero() {
 
         <div className=" justify-center flex items-center gap-3">
 
-          <a href="/" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://x.com/catwithatonsol" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <FaTwitter/>
           </a>
 
-          <a href="/" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://t.me/Catwithatcoin" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <FaTelegram/>
           </a>
 
@@ -33,7 +33,7 @@ function Hero() {
         </div>
           <button className="py-2 px-4 mt-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative">
          
-           CA:wrehfgdgfdkgjhflhjgl;jjkgh;jk;;jk
+           CA:soon....
           </button>
       </div>
   

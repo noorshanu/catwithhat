@@ -2,7 +2,7 @@ import Title from "components/Title";
 
 function Tokenomics() {
   return (
-    <div className=" mx-8 rounded-2xl border-2">
+    <div className=" mx-8 rounded-2xl border-2" id="token">
     <section className="container-wrapper   py-10 sm:py-14 px-4 sm:px-10">
       <Title className="text-white  mb-10 text-center">Tokenomics</Title>
 
@@ -23,7 +23,7 @@ function Tokenomics() {
        
        <div>
        <h1 className=" text-center font-daughter text-2xl">
-         REANNOUNCED
+         RENOUNCED
         </h1>
         <img src="/images/anno.jpeg" className="w-auto rounded-2xl" alt="" />
        </div>

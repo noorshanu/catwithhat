@@ -10,20 +10,20 @@ function Navbar() {
       <nav className="z-[100]  ">
         <div className="container-wrapper bg-[#00000044] h-14 lg:h-16 2xl:h-20 rounded-full flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center backdrop-blur-xl">
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
-            <Link
-              to="contact"
+            <a
+              href="#about"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              Roadmap
-            </Link>
-            <Link
-              to="roadmap"
+              About us
+            </a>
+            <a href="#road"
+              
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              Telegram
-            </Link>
+             Roadmap
+            </a>
           </div>
 
           <div>
@@ -43,19 +43,19 @@ function Navbar() {
 
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
             <Link
-              to="about"
+              to="/"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              Dextools
+             Socials
             </Link>
-            <Link
-              to="tokenomics"
+            <a
+              href="#token"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
               Tokenomics
-            </Link>
+            </a>
           </div>
         </div>
       </nav>
@@ -77,20 +77,20 @@ function Navbar() {
         </div>
 
         <div className="space-y-5 flex flex-col text-left items-start text-white font-medium">
-          <Link
-            to="contact"
+          <a
+            href="#about"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
-            Telegarm
-          </Link>
-          <Link
-            to="roadmap"
+        About us
+          </a>
+          <a
+            href="#roadmap"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
             Roadmap
-          </Link>
+          </a>
           <Link
             to="about"
             onClick={() => setSidebarOpen(false)}

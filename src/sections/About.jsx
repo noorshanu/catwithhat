@@ -2,7 +2,7 @@ import Title from "components/Title";
 
 function About() {
   return (
-    <section className="bg-purp mx-8 rounded-b-2xl py-12">
+    <section className="bg-purp mx-8 rounded-b-2xl py-12" id="about">
       <div className="container-wrapper grid lg:grid-cols-2 gap-10 ">
         <div>
           <img
