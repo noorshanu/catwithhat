@@ -22,7 +22,7 @@ function Hero() {
           <FaTwitter/>
           </a>
 
-          <a href="https://t.me/Catwithatcoin" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://t.me/Catwithattoken" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <FaTelegram/>
           </a>
 

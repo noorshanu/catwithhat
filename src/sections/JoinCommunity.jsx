@@ -12,16 +12,6 @@ const Button = ({ children, className, link }) => {
   );
 };
 
-const SocialLink = ({ children }) => {
-  return (
-    <a
-      href="/"
-      className="w-[4em] h-[4em] rounded-full bg-white flex items-center justify-center text-[100%] text-black"
-    >
-      {children}
-    </a>
-  );
-};
 
 function JoinCommunity() {
   return (
@@ -57,7 +47,7 @@ function JoinCommunity() {
             <Button link="https://x.com/catwithatonsol" className="m-1">
               Twitter
             </Button>
-            <Button link="https://t.me/Catwithatcoin" className="m-1">
+            <Button link="https://t.me/Catwithattoken" className="m-1">
               Telegram
             </Button>
             
