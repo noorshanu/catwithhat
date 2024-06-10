@@ -18,22 +18,22 @@ function Hero() {
 
         <div className=" justify-center flex items-center gap-3">
 
-          <a href="https://x.com/catwithatonsol" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://x.com/catwithatonsol" target="_blank" rel="noreferrer" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <FaTwitter/>
           </a>
 
-          <a href="https://t.me/Catwithattoken" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://t.me/Catwithatcoin" target="_blank" rel="noreferrer" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <FaTelegram/>
           </a>
 
-          <a href="/" className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
+          <a href="https://www.dextools.io/app/en/solana/pair-explorer/4SDBHr3K4V8MPBEQhqLCDPBGohmdcPq68JdTiMdfd2xJ?t=1718025151269"  target="_blank" rel="noreferrer"  className="py-2 px-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative text-xl">
           <img src="images/dex.png" alt="" className=" h-[24px] w-auto" />
           </a>
 
         </div>
           <button className="py-2 px-4 mt-2 rounded-full bg-[#fff] border-2 border-[#000] text-black font-bold transition-all duration-200 hover:bg-transparent hover:text-[#000] relative">
          
-           CA:soon....
+           CA: 3TXMpXWB9sM7bEamM46WqQ5fCg2Ngo1Cn3R7xu5nmtxx
           </button>
       </div>
   
